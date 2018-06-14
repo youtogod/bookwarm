@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+
+server:
+  port: 8081
+
+logging:
+  level:
+    root: INFO
+
+amazon:
+  associateId: habuma-20

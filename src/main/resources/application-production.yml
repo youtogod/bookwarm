@@ -1,0 +1,5 @@
+logging:
+  path: /var/logs/
+  file: BookWorm.log
+  level:
+    root: WARN
